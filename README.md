@@ -1,1 +1,1 @@
-# amazon-connect-customer-experience-platform
+# amazon-connect-insurance-customer-platform
